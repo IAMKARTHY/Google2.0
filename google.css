@@ -1,0 +1,170 @@
+.google{
+font-size: 92px ;
+text-align: center;
+margin-top: 150px;
+position: relative;
+right: 50px;
+}
+
+.search{
+    text-align: center;
+    padding-bottom: 5px;
+   
+}
+
+input{
+    border-radius: 50px;
+    width: 584px;
+    height: 47.6px;
+    font-size: 20px;
+}
+
+p{
+    display: inline;
+    margin-left: 100px;
+}
+
+.bot{
+text-align: center;
+font-family: arial,sans-serif;
+font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+
+}
+
+
+
+.search input{
+    text-align: center;
+}
+hr{
+    position: relative;
+    margin-top: 290px;
+}
+
+footer{
+    margin-top: 0px;
+
+}
+
+footer a{
+    font-size: 14px;
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+footer :nth-child(4){
+    position: relative;
+    left: 100px;
+}
+footer :nth-child(3){
+    position: relative;
+    left: 75px;
+}
+footer :nth-child(2){
+    position: relative;
+    left: 50px;
+}
+footer :nth-child(1){
+    position: relative;
+    left: 15px;
+}
+.line3 {
+    text-align: center;
+    position: relative;
+    right: 110px;
+    top: 10px;
+}
+.line3 a{
+    text-decoration: none;
+    font-size: 12px;
+}
+
+main{
+text-align: center;
+}
+
+body{
+    font-family: arial,sans-serif;
+}
+
+.bot p{
+    font-weight: lighter;
+    position: relative;
+    right: 40px;
+    top: 10px;
+}
+
+.logos a{
+    position: relative;
+    bottom: 258px;
+    left: 10px;
+}
+
+
+@media screen and (max-width: 300px) {
+ 
+    .google{
+       position: relative;
+       left: 50%;
+    }
+.logos a{
+    display: inline;
+    position: relative;
+    bottom: 65px;
+    left: -70px;
+  
+}
+
+.lgo{
+    display: inline;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 50px;
+    left: 380px;
+
+}
+
+#mic{
+    width: 50px;
+    height: 40px;
+
+}
+
+.bot p{
+    display: inline;
+    position: relative;
+    margin: 0px;
+    position: relative;
+    left:40%;
+    top: -20px;
+
+}
+
+.line3 p{
+    position: relative;
+    left: 150px;
+    bottom: 20px;
+
+} 
+.lang a{
+    text-decoration: none;
+    position: relative;
+    left: 30%;
+    background-color: aqua;
+  
+}
+
+footer{
+    display:none;
+}
+
+}
