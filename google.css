@@ -109,7 +109,7 @@ body{
 }
 
 
-@media screen and (max-width: 300px) {
+@media (max-width: 300px) {
  
     .google{
        position: relative;
